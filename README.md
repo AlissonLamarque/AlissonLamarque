@@ -6,11 +6,9 @@
 
 <div align="center">
   <a href="https://github.com/alissonlamarque">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonlamarque&show_icons=true&theme=rose_pine&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alissonlamarque&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissonlamarque&layout=compact&langs_count=7&theme=rose_pine"/>-->
 </div>
-
-##
 
 <div align="center"><br>
   <img align="center" alt="Alisson-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
