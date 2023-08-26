@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Olá, eu sou Alisson de Almeida Lamarque</h3>
+  <h3>Olá, eu sou Alisson de Almeida Lamarque 🖐🏻</h3>
 </div>
 
 ##
